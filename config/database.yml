@@ -1,0 +1,17 @@
+development:
+  adapter: mysql
+  database: first_app_development
+  username: 'root'
+  password: '123qweasd'
+
+test:
+  adapter: mysql
+  database: first_app_test
+  username: 'root'
+  password: '123qweasd'
+
+production:
+  adapter: mysql
+  database: first_app_production
+  username: 'root'
+  password: '123qweasd'
